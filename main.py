@@ -718,6 +718,6 @@ def main():
 main()
 
 # TODO We need to find a way to combine the usage of the split and normal functions, because it looks way too busy.
-# TODO Need to make an entire module for split.
-
+# TODO Need to make an entire module for split (maybe, god I hate split).
 #  TODO sometimes it does not display the correct events when fund == 0
+
